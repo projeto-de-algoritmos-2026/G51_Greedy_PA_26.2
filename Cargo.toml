@@ -1,0 +1,7 @@
+[package]
+name = "interval_partitioning"
+version = "0.1.0"
+edition = "2021"
+
+# Sem dependências externas: apenas a biblioteca padrão do Rust.
+[dependencies]
